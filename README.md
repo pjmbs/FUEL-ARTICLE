@@ -1,2 +1,2 @@
 # FUEL-ARTICLE
-Contains data used in the study performed to identify adulteration of gasoline by ethanol via IR image analysis.
+Contains data used in the study performed to identify adulteration of gasoline by ethanol via IR image analysis. and reffers to the article "Detection of Adulteration by Ethanol in Gasoline Blends via Machine Learning and Infrared Images" written by P. J. M. B. Sobreira, A. C. L. Filho , J. A. de L. Júnior, F. A. Belo and submited by Pedro Jorge Martins Bichara Sobreira (email: pedrobichara@gmail.com).
